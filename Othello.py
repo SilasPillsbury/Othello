@@ -3,3 +3,5 @@ def play(b):
     'Things'
     Return None
 
+def Coward(b,playstate):
+    return 'Awesome'
